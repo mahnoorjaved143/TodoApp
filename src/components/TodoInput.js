@@ -22,7 +22,7 @@ class TodoInput extends Component{
                 value={item}
                 onChange={handleChange} 
               />
-               <input onChange={handleDate} type="datetime-local"></input>
+               <input onChange={handleDate} type="date"></input>
             </div>
            
             <button
