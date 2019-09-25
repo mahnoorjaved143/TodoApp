@@ -1,6 +1,5 @@
 
 
-Steps:
  # Install dependencies
 npm install
 
