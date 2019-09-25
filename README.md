@@ -1,12 +1,12 @@
 
 
 Steps:
-    Firstly clone this repository into your machine.
-    
-    Run 'npm install'
-    
-    Run 'npm start'
-    
+ # Install dependencies
+npm install
+
+# Run App (from root)
+npm start
+
 
 ## Available Scripts
 
