@@ -1,8 +1,10 @@
 
 
 Steps:
-    Firstly clone this repository into your machine. 
+    Firstly clone this repository into your machine.
+    
     Run 'npm install'
+    
     Run 'npm start'
     
 
